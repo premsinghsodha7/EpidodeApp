@@ -13,7 +13,7 @@ android {
     buildToolsVersion "31.0.0"
 
     defaultConfig {
-        applicationId "com.music.podcastapp"
+        applicationId "com.music.episodeapp"
         minSdk 26
         targetSdk 30
         versionCode 2
